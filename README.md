@@ -1,16 +1,33 @@
-### Hi there 👋
+Hello, I'm William Guicha, Industrial Engineer with specialization in information systems, now a fullstack developer certificated by SoyHenry.
 
-<!--
-**wguicha/wguicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It is not only my profession but also my passion. Throughout my professional development I have implemented different technologies, always seeking to innovate and achieve better results.
 
-Here are some ideas to get you started:
+## Main technologies used:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript.
+
+- node.js.
+
+- GIT / Github.
+
+- React.js
+
+- Redux.js.
+
+- Express.js
+
+- SQL
+
+- Sequelize
+
+- PostgresSQL
+
+- Advanced Excel
+
+- VBA
+
+- DAX
+
+- Power BI
+
+- Power Query
